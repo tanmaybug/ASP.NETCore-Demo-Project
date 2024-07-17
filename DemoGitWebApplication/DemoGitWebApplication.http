@@ -1,0 +1,6 @@
+@DemoGitWebApplication_HostAddress = http://localhost:5017
+
+GET {{DemoGitWebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
