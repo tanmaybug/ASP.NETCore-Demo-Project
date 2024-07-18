@@ -8,7 +8,7 @@ namespace DemoGitWebApplication.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering","XYZ"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
